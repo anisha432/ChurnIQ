@@ -58,7 +58,7 @@ Joblib — Model serialization
 How to Run
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/ChurnIQ.git
+git clone https://github.com/anisha432/ChurnIQ.git
 cd ChurnIQ
 
 **2. Install dependencies**
