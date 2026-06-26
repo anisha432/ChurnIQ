@@ -1,6 +1,6 @@
 # 🚀 **ChurnIQ**
 
-## **AI-Powered Customer Churn Data Analytics Platform**
+## **AI-Powered Customer Churn Data Analytics Platform 🔗 Live: https://churniq-eubbdckaeyo7dwd35pqzrp.streamlit.app/**
 
 ---
 
